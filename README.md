@@ -10,7 +10,9 @@ Two players (X and O) can play against each other in the terminal.
 The game board has 9 positions arranged like this:
 
 1 | 2 | 3
+
 4 | 5 | 6
+
 7 | 8 | 9
 
 
